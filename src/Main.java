@@ -28,7 +28,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         //create a student
         student st = new student(sc.nextLine(), sc.nextFloat());
-        //display student
+        //display a student
         System.out.println(st);
     }
 }
